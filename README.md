@@ -1,1 +1,1 @@
-# learnyounode_solutions
+Solutions to the learnyounode tutorial at https://nodeschool.io/
